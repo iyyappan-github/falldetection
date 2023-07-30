@@ -1,4 +1,4 @@
-he goal of this project is to address the issue of elderly individuals and patients falling or
+the goal of this project is to address the issue of elderly individuals and patients falling or
 slipping, which can result in serious bone and muscle injuries. As they age, their bodies get
 softer and more fragile resulting in fall. We are planning to develop a jacket which inflates
 when fall happens, so we can prevent serious injuries of car and bike racing and test drivers.
